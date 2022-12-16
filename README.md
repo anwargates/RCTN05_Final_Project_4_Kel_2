@@ -14,9 +14,9 @@ Movie Database adalah aplikasi web pencari data film online dengan memanfaatkan 
 
 ## :rocket: Kelompok 2
 
-[![Status](https://img.shields.io/badge/Status-Belum_Mentoring-red)]()
+[![Status](https://img.shields.io/badge/Status-Sudah_Mentoring-green)]()
 
-<!-- :date: 26 Oktober 2022 - :clock7: 19.00 -->
+:date: 14 Desember 2022 - :clock7: 19.00
 
 #### :crown: Arif Setiawan
 
